@@ -1,0 +1,51 @@
+body{
+    background-color: #56a5eb;
+}
+
+.block{
+    background-color: #56a5eb;
+    height: 100%;
+    width: 450px;
+}
+.h{
+    height: 50px;
+}
+.qstcontent{
+    width: 45%;
+    height: 40px;
+    margin-top: 5px;
+    background: #56a5eb;
+}
+.choicetext{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.qcm{
+    text-align: center;
+}
+.ligne1{
+    display: flex;
+    justify-content: space-between;
+}
+.fot{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: grey !important;
+}
+.score{
+    background-color: sandybrown;
+    width: 20px;
+    padding: 3px;
+}
+.scoreMoins{
+    background-color: rgb(168, 138, 102);
+    width: 20px;
+    padding: 3px;
+}
